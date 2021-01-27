@@ -45,7 +45,7 @@
         </constraints>
         <properties>
           <font name="Arial" size="20" style="1"/>
-          <text value="Autorami są bracia Szczepan i Damian Gabiec"/>
+          <text value="Autorami są bracia Szczepan i Damian"/>
         </properties>
       </component>
     </children>
